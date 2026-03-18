@@ -1,0 +1,29 @@
+{
+  "watched": [
+    {
+      "name": "流浪地球2",
+      "date": "2026-03-18",
+      "rating": 9.0,
+      "genre": "科幻"
+    },
+    {
+      "name": "奥本海默",
+      "date": "2026-03-18",
+      "rating": 8.5,
+      "genre": "传记"
+    }
+  ],
+  "watching": [],
+  "wishlist": [],
+  "stats": {
+    "totalWatched": 2,
+    "averageRating": 8.8,
+    "genreBreakdown": {
+      "科幻": 1,
+      "传记": 1
+    },
+    "monthlyCount": {
+      "2026-03": 2
+    }
+  }
+}
